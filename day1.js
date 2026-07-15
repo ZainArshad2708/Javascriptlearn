@@ -8,3 +8,7 @@ console.log(typeof letter);
 let val1 = 33;
 let val2 = 66;
 console.log(val1*val2); 
+let c = 44.5;
+let d = 55.3;
+let sub = d-c;
+console.log(sub);
