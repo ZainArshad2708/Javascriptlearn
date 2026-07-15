@@ -5,3 +5,6 @@ let letter = "Zain";
 console.log(a+b);
 console.log(typeof a);
 console.log(typeof letter);
+let val1 = 33;
+let val2 = 66;
+console.log(val1*val2); 
