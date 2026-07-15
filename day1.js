@@ -12,3 +12,6 @@ let c = 44.5;
 let d = 55.3;
 let sub = d-c;
 console.log(sub);
+let e=20;
+let f = 10;
+console.log(e/f);
